@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/gov-trust-locker-54092/",  // Updated to match GitHub repository name
+  base: "/safespace/",  // Updated to match the correct repository name
   server: {
     host: "::",
     port: 8080,
